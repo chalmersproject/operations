@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "071f9b692cdf9a51",
+        "id": "292b5dab9098aa9c",
         "type": "tabs",
         "children": [
           {
-            "id": "057af9d4327ae808",
+            "id": "fa2a68be9a1567ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "565a1b5bab7a7a1f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           }
         ]
@@ -138,6 +147,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "057af9d4327ae808",
-  "lastOpenFiles": []
+  "active": "fa2a68be9a1567ac",
+  "lastOpenFiles": [
+    "Readme.md"
+  ]
 }
